@@ -1,0 +1,22 @@
+{
+  "name": "pintores",
+  "version": "1.0.0",
+  "description": "sitio web estatico con express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarasoto/sitio-web-estatico-pintores-sarasoto-4E.git"
+  },
+  "author": "Sara Soto Chavarria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarasoto/sitio-web-estatico-pintores-sarasoto-4E/issues"
+  },
+  "homepage": "https://github.com/sarasoto/sitio-web-estatico-pintores-sarasoto-4E#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
