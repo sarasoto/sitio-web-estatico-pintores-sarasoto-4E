@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/sarasoto/sitio-web-estatico-pintores-sarasoto-4E#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
